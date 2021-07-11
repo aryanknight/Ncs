@@ -10,7 +10,7 @@ export default function Post() {
                     <div style={{padding:'0.5rem'}} >
                         <img src="https://source.unsplash.com/random" style={{minWidth:'50px',maxHeight:'50px',maxWidth:'50px',minHeight:'50px',borderRadius:'50%',overflow:'hidden'}} />
                     </div>
-                    <div style={{textAlign:'center'}}>
+                    <div style={{textAlign:'left'}}>
                     <div className="texts">
                         <h1 style={{marginLeft:'10px',textAlign:'left'}}>10 GitHub repositories to become a better JavaScript Developer</h1>
                     </div>
@@ -19,6 +19,8 @@ export default function Post() {
                         </div>
                 </div>
             </div>
+
+
             <div className="postcontainer" style={{marginTop:'40px'}}>
                 
                 <div className="textcontainer">
@@ -32,6 +34,8 @@ export default function Post() {
                         <div style={{marginLeft:'10px'}}> #javascript #productivity #beginners #github</div></div>
                 </div>
             </div>
+
+
             <div className="postcontainer" style={{marginTop:'40px'}}>
                
                 <div className="textcontainer">
