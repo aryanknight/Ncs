@@ -17,3 +17,7 @@
     max-height: 30rem;
     background-size: cover;
 }
+
+h1:hover{
+    color:blue;
+}
